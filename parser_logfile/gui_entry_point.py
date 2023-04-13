@@ -7,6 +7,7 @@ import os
 
 
 class Root(Tk):
+    """ Класс окна программы"""
     def __init__(self, *args, **kwargs):
         Tk.__init__(self, *args, **kwargs)
         self.input_file_entry = Entry()
