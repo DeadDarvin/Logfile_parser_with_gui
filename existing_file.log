@@ -1,0 +1,35 @@
+         ---  Exchange: Binance Futures  ---  v6.87 (24.02.2023)  --- Reg.ID: 62473  VDS Mode: YES  FreePosMode: NO
+MultiOrders: YES (cfg: YES)  XFunction: NO 
+15:13:25  [Memory] UsedMem App: 283  Sys: 378  FreeMem Phys: 2652 Page: 3283 
+15:28:30  [Memory] UsedMem App: 283  Sys: 378  FreeMem Phys: 2654 Page: 3285 
+15:43:30  [Memory] UsedMem App: 283  Sys: 378  FreeMem Phys: 2654 Page: 3285 
+15:54:19  API keys valid till: 08-06-2023 05:00  (74 days)  
+15:58:30  [Memory] UsedMem App: 283  Sys: 378  FreeMem Phys: 2655 Page: 3284 
+16:13:30  [Memory] UsedMem App: 283  Sys: 378  FreeMem Phys: 2654 Page: 3285 
+16:28:35  [Memory] UsedMem App: 283  Sys: 378  FreeMem Phys: 2646 Page: 3278 
+16:29:52   Signal USDT-ARB Ask:1.2768  dBTC: -0.09 dBTC5m: 0.19 dBTC1m: 0.08 24hBTC: 0.53 72hBTC: 0.52 dMarkets: 0.01 dMarkets24: 0.89  AutoStart: TRUE  Autodetect ON;  Autodetected  [ <HL-IGN0.3>Hook Long Depth: 0.32% R: 115% d: 0.30% (High: 1.2767  Min: 1.2726  Max: 1.2773  [AbsHigh: 1.2892 Drop: 303.90%] VolK: 20.09) InitialPrice: 1.2730 Buffer: [0.24%..0.40%] SellPrice: 0.10% ] (strategy <HL-IGN0.3>)
+16:29:52  ARB: PumpQ=-84296740 24vol=1198m hvol=42048 k h3vol=225816 k sellX2=7068 k PumpsCount=0 SellProb=83% Delta24h=12.13% Delta3h=4.80  d1h: 2%  d15m: 2.1%  PumpD: 0.0%  PumpHDelta: 1.4%  DumpHDelta: 0.7%
+16:29:52  ARB: [1] (20) EMAFilter: Min(5min, 1sec) = -0.63%  Max(5min, 1sec) = -1.37%  Min(15min, 1sec) = -0.63%  Max(15min, 1sec) = -2.08%  Min(30min, 1sec) = -0.63%  Max(30min, 1sec) = -2.08%  Min(60min, 1sec) = -0.53%  Max(60min, 1sec) = -2.08%  Min(1hours, 1sec) = -0.29%  Max(1hours, 1sec) = -1.77%  Min(2hours, 1sec) = 0.53%  Max(2hours, 1sec) = -2.93%  Min(3hours, 1sec) = 1.73%  Max(3hours, 1sec) = -2.93%  Min(4hours, 1sec) = 4.27%  Max(4hours, 1sec) = -2.93%  Min(6hours, 1sec) = 6.13%  Max(6hours, 1sec) = -2.93%  Min(12hours, 1sec) = 6.23%  Max(12hours, 1sec) = -2.93%  Min(24hours, 1sec) = 8.84%  Max(24hours, 1sec) = -2.93%  
+16:29:52  ARB: [1] (20) Task 20 started; USDT-ARB (strategy <HL-IGN0.3>) UseAsk: 1.2768 CurAsk: 1.2768  BUY 1.2730 (signal price -2%)
+16:29:52  ARB: [1] (20)  HistoryDataLoaded: YES 
+16:29:52  ARB: [1] (20) BuyPrice initial modifier coefficient: +0.00%  BuyModifier: +0.00%
+16:29:52  ARB: [1] (20) USDT-ARB Buy order: 38.9000 USDT-ARB rate: 1.2730 Sum: 49.52$  ID: 0 cID: emu
+16:29:52  ARB: [1] (20) BUY Order SET!
+16:29:53  ARB [1]  (20) BUY   SL:ON  TS:OFF  
+16:30:27  ARB: [1] (20) MoonHook order replacing UP on cur. price: 1.2816 Min. Ask: 1.2783 PriceBug: 0.00 Down: 0.24% Up: 0.40% pUP: 1.2732 pDown: 1.2785  [OrderPrice 1.2730 < 1.2732]  hDelta: 2.12% dBTC: 0.03 dBTC5m: 0.19 dMarket: 0.06 dMarket24: 0.92
+16:30:27  ARB: [1] (20) buy order replace request...
+16:30:27  ARB: [1] (20) buy order canceled! 
+16:30:27  ARB: [1] (20) USDT-ARB Buy order: 38.8000 USDT-ARB rate: 1.2775 Sum: 49.57$  ID: 0 cID: emu
+16:30:27  ARB: [1] (20) BUY order replaced ! 
+16:30:52  ARB: [1] (20) Auto cancel buy order activated since 60 sec. (strategy <HL-IGN0.3>) DontCancelSmall: YES q: 0.00000000
+16:30:52  ARB: [1] (20) Buy order cancel request...
+16:30:53  ARB: [1] (20) BUY order canceled (0% fill ).
+16:43:40  [Memory] UsedMem App: 283  Sys: 377  FreeMem Phys: 2645 Page: 3276 
+16:54:20  API keys valid till: 08-06-2023 05:00  (74 days)  
+16:58:45  [Memory] UsedMem App: 283  Sys: 377  FreeMem Phys: 2647 Page: 3279 
+17:13:45  [Memory] UsedMem App: 283  Sys: 377  FreeMem Phys: 2647 Page: 3280 
+17:28:50  [Memory] UsedMem App: 283  Sys: 378  FreeMem Phys: 2644 Page: 3278 
+17:43:50  [Memory] UsedMem App: 283  Sys: 377  FreeMem Phys: 2645 Page: 3278 
+17:54:23  API keys valid till: 08-06-2023 05:00  (73 days)  
+17:58:55  [Memory] UsedMem App: 283  Sys: 377  FreeMem Phys: 2646 Page: 3278 
+18:13:55  [Memory] UsedMem App: 283  Sys: 378  FreeMem Phys: 2660 Page: 3294 
