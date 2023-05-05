@@ -5,6 +5,20 @@ from xlsxwriter.exceptions import FileCreateError
 
 
 def writer(paths_dict):
+    """
+    Запускает парсинг функцией create_table_mass.
+    Записывает распарсенные данные в excel-таблицу.
+    Возвращает True, если данные получены,
+    иначе - False.
+    """
+    if type(paths_dict) is not dict:
+        raise TypeError(f"{paths_dict} must be dict!")
+
+    if not paths_dict.get('input_file', False):
+        raise ValueError(f"{paths_dict} does not have [input_file] key!")
+
+    if not paths_dict.get('output_dir', False):
+        raise ValueError(f"{paths_dict} does not have [output_dir] key!")
 
     table_mass = create_table_mass(paths_dict['input_file'])  # Запуск парсинга
 
